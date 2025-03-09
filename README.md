@@ -5,3 +5,5 @@ This is open repository, so you may create your own branches and contribute to t
 
 **Current Version: v1.0**
 **[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3440947822)**
+
+![GOE Fixes Logo](https://i.ibb.co/9Hg0fJbL/image.png "GOE Fixes Logo")
