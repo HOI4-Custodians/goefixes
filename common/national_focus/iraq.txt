@@ -4962,7 +4962,7 @@ focus_tree = {
 
 			hidden_effect = {
 				drop_cosmetic_tag = yes
-				set_cosmetic_tag = IRQ_republic_of_iraq
+				set_cosmetic_tag = IRQ_Monarchy
 			}
 
 		}
