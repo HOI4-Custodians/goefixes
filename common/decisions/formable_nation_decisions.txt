@@ -11261,6 +11261,9 @@ form_turan_category = {
 				413 = { add_core_of = TUR }
 				266 = { add_core_of = TUR }
 				416 = { add_core_of = TUR }
+				1000 = { add_core_of = TUR }
+				1001 = { add_core_of = TUR }
+				1004 = { add_core_of = TUR }
 				#AZERBAIJAN
 				229 = { add_core_of = TUR }
 				#KUBAN REGION + CRIMEA
