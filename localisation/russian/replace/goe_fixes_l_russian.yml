@@ -1,0 +1,11 @@
+﻿l_russian:
+ support: "Дополнительное оснащение"
+ PER_islamic_rep_party: "Исламский совет"
+ PER_islamic_rep_party_long: "Совет Исламской Революции"
+ form_country_turan_syria_required_states_tt: "Контролирует регионы Сирии: §Y[799.GetName]§!, §Y[677.GetName]§! и §Y[680.GetName]§!."
+ form_country_turan_iran_required_states_tt: "Контролирует регионы Ирана: §Y[421.GetName]§!, §Y[419.GetName]§!, §Y[1000.GetName]§!, §Y[1001.GetName]§!, §Y[420.GetName]§!, §Y[417.GetName]§!, §Y[413.GetName]§!, §Y[266.GetName]§!, §Y[1004.GetName]§! и §Y[416.GetName]§!."
+ form_country_turan_kuban_crimea_required_states_tt: "Контролирует регионы Северного Причерноморья, Нижнего Поволжья и Прикаспия: §Y[233.GetName]§!, §Y[232.GetName]§!, §Y[235.GetName]§!, §Y[234.GetName]§!, §Y[237.GetName]§!, §Y[238.GetName]§!, §Y[236.GetName]§!, §Y[407.GetName]§!, §Y[406.GetName]§!, §Y[218.GetName]§!, §Y[227.GetName]§!, §Y[228.GetName]§!, §Y[200.GetName]§!, §Y[196.GetName]§! и §Y[137.GetName]§!."
+ form_country_turan_urals_central_asia_required_states_tt: "Контролирует регионы Южной Сибири, Средней Азии и Казахских степей: §Y[582.GetName]§!, §Y[402.GetName]§!, §Y[583.GetName]§!, §Y[587.GetName]§!, §Y[585.GetName]§!, §Y[584.GetName]§!, §Y[405.GetName]§!, §Y[404.GetName]§!, §Y[586.GetName]§!, §Y[732.GetName]§!, §Y[742.GetName]§!, §Y[589.GetName]§!, §Y[588.GetName]§!, §Y[590.GetName]§!, §Y[570.GetName]§! и §Y[571.GetName]§!."
+ form_country_turan_siberia_required_states_tt: "Контролирует регионы Сибири, Забайкалья и Дальнего Востока: §Y[654.GetName]§!, §Y[40.GetName]§!, §Y[569.GetName]§!, §Y[568.GetName]§!, §Y[329.GetName]§!, §Y[567.GetName]§!, §Y[566.GetName]§!, §Y[564.GetName]§!, §Y[563.GetName]§!, §Y[565.GetName]§!, §Y[561.GetName]§!, §Y[574.GetName]§!, §Y[562.GetName]§!, §Y[644.GetName]§! и §Y[637.GetName]§!."
+
+ RAJ_force_china_to_accept_opium_trade_tt: "Появится всемирный рынок опиума. Некоторые генералы могут пристраститься к наркотикам..."
