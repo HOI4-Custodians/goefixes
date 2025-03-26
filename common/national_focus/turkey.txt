@@ -765,41 +765,33 @@ focus_tree = {
 		completion_reward = {
 			if = {
 				limit = {
-					FRA = { owns_state = 799 }
-				}
-				FRA = { country_event = { id = bftb_turkey.25 hours = 6 } }
-			}
-			else_if = {
-				limit = {
-					SYR = { 
-						owns_state = 799 
-						is_subject_of = FRA
-					}
-				}
-				FRA = { country_event = { id = bftb_turkey.25 hours = 6 } }
-			}
-			else_if = {
-				limit = {
-					SYR = { 
-						owns_state = 799 
-						OR = {
-							is_subject = yes
-							is_puppet = yes
+					OR = {
+						FRA = { owns_state = 799 }
+						SYR = {
+							owns_state = 799
+							is_puppet_of = FRA
 						}
 					}
-				}		
-				SYR = {
-					overlord = {
-						country_event = { id = bftb_turkey.25 hours = 6 }
+				}
+				FRA = { country_event = { id = bftb_turkey.25 hours = 6 } }
+			}
+			else_if = {
+				random_country = {
+					limit = {
+						owns_state = 799
+						is_puppet = yes
 					}
+					OVERLORD = {
+						country_event = { id = bftb_turkey.60 hours = 6 }
+					}	
 				}
 			}
 			else = {
-				random_neighbor_country = { 
+				random_country = {
 					limit = {
 						owns_state = 799
 					}
-					country_event = { id = bftb_turkey.60 hours = 6 } 
+					country_event = { id = bftb_turkey.60 hours = 6 }
 				}
 			}
 			add_war_support = 0.05
