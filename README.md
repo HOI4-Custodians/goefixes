@@ -3,7 +3,7 @@ Welcome! This is GitHub for unofficial mod, designed to fix DLC "Graveyard of Em
 
 This is open repository, so you may create your own branches and contribute to the project! If you found any bug, please, let me know by using "Issues" tab.
 
-**Current Version: v1.1**
+**Current Version: v1.2**
 **[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3440947822)**
 
 ![GOE Fixes Logo](https://i.ibb.co/9Hg0fJbL/image.png "GOE Fixes Logo")
